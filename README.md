@@ -341,17 +341,6 @@ curl -X POST http://localhost:8000/api/payments/initiate/ \
 
 ---
 
-## 📝 License
-
-MIT License
-
----
-
-## 👤 Author
-
-Vilas
-
----
 
 ## 🤝 Contributing
 
