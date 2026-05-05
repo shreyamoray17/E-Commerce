@@ -5,15 +5,15 @@ A simple yet comprehensive e-commerce REST API built with Django, featuring JWT 
 Features
 
 Core Features
-- JWT Authentication** - Secure token-based auth with access & refresh tokens
-- Role-Based Access Control** - Customer and Admin roles
-- Product Management** - CRUD operations with Redis caching
-- Shopping Cart** - Add, update, remove items
-- Order Management** - Create orders, track status
-- Mock Payment Gateway** - Simulated payment processing
-- Redis Caching** - Fast product listing and detail retrieval
-- Docker Support** - Containerized MySQL, Redis, and Django
-- Swagger Documentation** - Interactive API docs
+- JWT Authentication - Secure token-based auth with access & refresh tokens
+- Role-Based Access Control - Customer and Admin roles
+- Product Management - CRUD operations with Redis caching
+- Shopping Cart - Add, update, remove items
+- Order Management - Create orders, track status
+- Mock Payment Gateway - Simulated payment processing
+- Redis Caching - Fast product listing and detail retrieval
+- Docker Support - Containerized MySQL, Redis, and Django
+- Swagger Documentation - Interactive API docs
 
 Technical Highlights
 - Django REST Framework for API development
@@ -53,7 +53,6 @@ Tech Stack
 
 Project Structure
 
-```
 E-commerce/
 ├── ecommerce_platform/      # Main project settings
 │   ├── settings.py          # Django configuration
@@ -80,7 +79,6 @@ E-commerce/
 ├── Dockerfile               # Django app container
 ├── requirements.txt         # Python dependencies
 └── README.md                # This file
-```
 
 ---
 
